@@ -14,3 +14,9 @@ I'm good at using all kinds of programing languages to write "Hello World" progr
 ```cpp
 cout << "Hello,World!" << endl
 ```
+
+## Make a tast list
+
+- [x] C programing homeword
+- [x] Math homework
+- [ ] This item is not complete
